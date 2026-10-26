@@ -27,7 +27,7 @@ Is an armed door open? The user is immediately notified on their phone with a lo
 ## 🚀 Expansion Plans
 
 - [ ] Giving different users different permissions so they can only change & view the alarm status on different floors of the apartment building.
-- [ ] Better floor plan images for each floor to further improve visualization.
+- [ ] Better floor plan images for each floor to further improve visualization. (...ignore the current MS Paint-created image until I find real floor planning software...)
 
 ---
 

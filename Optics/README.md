@@ -7,10 +7,11 @@ You know how there are many optical stores still using very old ways of storing,
 A very... insightful example would be that of an acquaintance's store that saved customer data on an **Access local database file**, with antiquated user interface, poor user experience, no remote accessibility and little other capabilities.
 
 Of course, that's not the only case. And it's sad seeing such stores still working as if they're 30 years behind.
+That's not to say there's been no technological advance to provide better solutions; the main problem stems from the fact that most of this software is actually too expensive for single stores to afford without sacrificing a significant portion of their revenue. 
 
 ## 🚀 An Interesting Project-Solution?
 
-An app for optical stores to manage customers (**πελατολόγιο**), access & change their data from any platform or device.
+A lower-cost app for optical stores to manage customers (**πελατολόγιο**), access & change their data from any platform or device.
 
 The customer data is stored in a **central database** so it can easily be accessed from anywhere.
 
